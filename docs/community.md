@@ -36,4 +36,4 @@ Share your work, ask specific questions and provide constructive feedback. Avoid
 
 Check the current official token mint on the website and with `/ca` in the main SPAWN group. Admins and the bot never need your seed phrase or private key.
 
-[Back to SPAWN](../README.md)
+[Documentation hub](README.md) · [FAQ](faq.md) · [Back to SPAWN](../README.md)

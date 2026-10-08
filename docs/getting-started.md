@@ -35,4 +35,4 @@ Review the network, asset, full mint address, amount and fees. Keep enough SOL f
 
 Use [Help](https://spawnmeme.com/help), [Fees](https://spawnmeme.com/fees) and [How launches work](https://spawnmeme.com/how-it-works) for current details.
 
-[Back to SPAWN](../README.md)
+[Documentation hub](README.md) · [FAQ](faq.md) · [Back to SPAWN](../README.md)

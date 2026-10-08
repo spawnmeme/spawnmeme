@@ -18,6 +18,23 @@ Whether you are launching a meme project, creating a collection, exploring marke
 
 **IDEA → CREATE → BUILD → TOKEN → LAUNCH → GROW**
 
+<p align="center">
+  <a href="https://github.com/spawnmeme/spawnmeme/blob/main/docs/README.md"><strong>Documentation hub</strong></a> ·
+  <a href="https://github.com/spawnmeme/spawnmeme/blob/main/docs/launch-checklist.md">Launch checklist</a> ·
+  <a href="https://github.com/spawnmeme/spawnmeme/blob/main/docs/faq.md">FAQ</a> ·
+  <a href="https://github.com/spawnmeme/spawnmeme/blob/main/docs/brand.md">Media kit</a>
+</p>
+
+## Choose your path
+
+| You are here to… | Your first step | Your next step |
+| --- | --- | --- |
+| **Create a project** | [Shape your idea](https://spawnmeme.com/start) | [Prepare your launch](https://github.com/spawnmeme/spawnmeme/blob/main/docs/launch-checklist.md) |
+| **Deploy an existing token idea** | [Open token deployment](https://spawnmeme.com/create-token) | Review the launch details and wallet transaction |
+| **Explore Solana** | [Browse Markets](https://spawnmeme.com/markets) | [Understand swaps and wallet tools](https://github.com/spawnmeme/spawnmeme/blob/main/docs/markets-and-wallet.md) |
+| **Grow a community** | [Connect Buy Bot](https://github.com/spawnmeme/spawnmeme/blob/main/docs/buy-bot-and-trending.md) | [Discover Trending](https://t.me/spawntrending) |
+| **Create a collection** | [Explore NFTs](https://spawnmeme.com/nfts) | [Read the minting guide](https://github.com/spawnmeme/spawnmeme/blob/main/docs/nfts-and-airdrops.md) |
+
 ## Find your starting point
 
 <table>
@@ -37,6 +54,9 @@ Whether you are launching a meme project, creating a collection, exploring marke
 
 ## The SPAWN toolkit
 
+<details>
+<summary><strong>Explore all tools — from an idea to a growing community</strong></summary>
+
 | What you want to do | Start here |
 | --- | --- |
 | Develop a name, character, story and artwork | [Spawn AI](https://spawnmeme.com/create) |
@@ -53,6 +73,8 @@ Whether you are launching a meme project, creating a collection, exploring marke
 | Review your launched tokens and creator fees | [Creator dashboard](https://spawnmeme.com/creator-dashboard) |
 | Look up on-chain activity or clean up token accounts | [Explorer](https://spawnmeme.com/explorer) · [Incinerator](https://spawnmeme.com/burn) |
 | Explore paid project visibility | [Advertise](https://spawnmeme.com/advertise) |
+
+</details>
 
 Browse the [full feature guide](https://spawnmeme.com/features) or [get started step by step](https://github.com/spawnmeme/spawnmeme/blob/main/docs/getting-started.md).
 
@@ -72,7 +94,13 @@ Use `/stopbuybot` to pause alerts. The current buy bot supports verified SPAWN t
 
 ## What is next to hatch?
 
+<a href="https://spawnmeme.com/roadmap?stage=incubator"><img src="https://raw.githubusercontent.com/spawnmeme/spawnmeme/main/assets/hatching-plan.svg" alt="The Hatching Plan: Dream it, Hatch it, Find your orbit, Build the Nest and Make it yours are live chapters; Next to hatch is exploring." width="100%" /></a>
+
 Explore the interactive [Hatching Plan](https://spawnmeme.com/roadmap?stage=incubator).
+
+<details>
+<summary><strong>Read the six roadmap chapters</strong></summary>
+
 
 | Chapter | Focus | Roadmap status |
 | --- | --- | --- |
@@ -83,17 +111,49 @@ Explore the interactive [Hatching Plan](https://spawnmeme.com/roadmap?stage=incu
 | 05 · Make it yours | NFTs, airdrops and project visibility | Live |
 | 06 · Next to hatch | Broader buy-bot coverage, creator insights and smoother onboarding | Exploring |
 
+</details>
+
 “Exploring” means an idea is under consideration, with no committed release date. Read the [roadmap notes](https://github.com/spawnmeme/spawnmeme/blob/main/docs/roadmap.md) for scope and current limitations.
+
+## Find an answer
+
+<details>
+<summary><strong>Do I need a complete project before launching a token?</strong></summary>
+
+No. Start with an idea in [Spawn AI](https://spawnmeme.com/create), or go directly to [Deploy a Token](https://spawnmeme.com/create-token) when your identity and artwork are ready. A website is optional.
+
+</details>
+
+<details>
+<summary><strong>Does Buy Bot support every Solana token?</strong></summary>
+
+The current version supports verified SPAWN tokens on active bonding curves. Graduated pools and arbitrary external tokens are outside its current coverage. See [setup and coverage](https://github.com/spawnmeme/spawnmeme/blob/main/docs/buy-bot-and-trending.md).
+
+</details>
+
+<details>
+<summary><strong>Does paying for Trending buy an organic rank?</strong></summary>
+
+Paid visibility is separate from organic activity rankings. Create a campaign through the official [Trending page](https://spawnmeme.com/trending) and follow its order-specific payment instructions.
+
+</details>
+
+<details>
+<summary><strong>Can I run SPAWN from this repository?</strong></summary>
+
+This repository contains public documentation and community resources. Use [spawnmeme.com](https://spawnmeme.com) to access the application; its production source code is not included here.
+
+</details>
+
+[More questions and troubleshooting](https://github.com/spawnmeme/spawnmeme/blob/main/docs/faq.md)
 
 ## Explore the documentation
 
-- [Getting started](https://github.com/spawnmeme/spawnmeme/blob/main/docs/getting-started.md)
-- [Markets, swaps and your wallet](https://github.com/spawnmeme/spawnmeme/blob/main/docs/markets-and-wallet.md)
-- [Buy Bot and Trending](https://github.com/spawnmeme/spawnmeme/blob/main/docs/buy-bot-and-trending.md)
-- [NFT collections and creator airdrops](https://github.com/spawnmeme/spawnmeme/blob/main/docs/nfts-and-airdrops.md)
-- [Community and official channels](https://github.com/spawnmeme/spawnmeme/blob/main/docs/community.md)
-- [Technology and integrations](https://github.com/spawnmeme/spawnmeme/blob/main/docs/technology.md)
-- [Brand and media information](https://github.com/spawnmeme/spawnmeme/blob/main/docs/brand.md)
+| Start | Build | Connect |
+| --- | --- | --- |
+| [Documentation hub](https://github.com/spawnmeme/spawnmeme/blob/main/docs/README.md) | [Launch checklist](https://github.com/spawnmeme/spawnmeme/blob/main/docs/launch-checklist.md) | [Buy Bot & Trending](https://github.com/spawnmeme/spawnmeme/blob/main/docs/buy-bot-and-trending.md) |
+| [Getting started](https://github.com/spawnmeme/spawnmeme/blob/main/docs/getting-started.md) | [NFTs & airdrops](https://github.com/spawnmeme/spawnmeme/blob/main/docs/nfts-and-airdrops.md) | [Community & channels](https://github.com/spawnmeme/spawnmeme/blob/main/docs/community.md) |
+| [Markets & Wallet](https://github.com/spawnmeme/spawnmeme/blob/main/docs/markets-and-wallet.md) | [Technology](https://github.com/spawnmeme/spawnmeme/blob/main/docs/technology.md) | [Brand & media](https://github.com/spawnmeme/spawnmeme/blob/main/docs/brand.md) |
 
 ## Welcome to the Nest
 

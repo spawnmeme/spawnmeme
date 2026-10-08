@@ -54,4 +54,4 @@ Use the official [Trending page](https://spawnmeme.com/trending) for current ava
 
 Check that you are a visible group administrator, the bot is an administrator, the full mint is correct, and the token has an active supported curve. A capacity message means onboarding is currently full. Ask through [Help](https://spawnmeme.com/help) rather than repeatedly reconnecting.
 
-[Open Buy Bot & Trending](https://spawnmeme.com/buy-bot) · [Back to SPAWN](../README.md)
+[Open Buy Bot & Trending](https://spawnmeme.com/buy-bot) · [Documentation hub](README.md) · [FAQ](faq.md) · [Back to SPAWN](../README.md)

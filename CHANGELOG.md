@@ -1,5 +1,13 @@
 # Documentation updates
 
+## Documentation enhancement — October 8, 2026
+
+- Added goal-based README navigation and expandable feature and FAQ sections.
+- Added a visual overview of the six roadmap chapters.
+- Added a documentation hub, creator launch checklist and FAQ.
+- Connected every guide to the documentation hub and expanded the media asset index.
+- Included the contribution templates and ignore rules missing from the initial upload.
+
 ## October 8, 2026 — Dedicated SPAWN repository package
 
 - Prepared the public documentation and profile README for `spawnmeme/spawnmeme`.

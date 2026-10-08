@@ -29,4 +29,4 @@ Exploring items are not available features or scheduled releases. Scope and prio
 
 Describe a real task that is difficult today. Explain who it affects and what a better result would look like. Bring the idea to [The Nest](https://t.me/spawnmemetg) or [open a feature request](https://github.com/spawnmeme/spawnmeme/issues/new/choose).
 
-[Back to SPAWN](../README.md)
+[Documentation hub](README.md) · [FAQ](faq.md) · [Back to SPAWN](../README.md)

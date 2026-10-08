@@ -24,4 +24,4 @@ This repository publishes documentation, community resources and brand informati
 
 There is no application to install or run from this repository. Use [spawnmeme.com](https://spawnmeme.com) to access the platform. Future public code or developer resources should state their own scope and license when released.
 
-[Features](https://spawnmeme.com/features) · [Security](../SECURITY.md) · [Back to SPAWN](../README.md)
+[Features](https://spawnmeme.com/features) · [Security](../SECURITY.md) · [Documentation hub](README.md) · [FAQ](faq.md) · [Back to SPAWN](../README.md)

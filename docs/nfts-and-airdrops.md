@@ -22,4 +22,4 @@ Creators review the token, recipients, amounts and transaction costs before appr
 
 Share the exact collection or project page. Publish the full mint or collection address when appropriate. Do not ask community members to send seed phrases or private keys.
 
-[Explore NFTs](https://spawnmeme.com/nfts) · [Explore airdrops](https://spawnmeme.com/airdrop) · [Back to SPAWN](../README.md)
+[Explore NFTs](https://spawnmeme.com/nfts) · [Explore airdrops](https://spawnmeme.com/airdrop) · [Documentation hub](README.md) · [FAQ](faq.md) · [Back to SPAWN](../README.md)

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="700" viewBox="0 0 1080 700" role="img" aria-labelledby="title desc">
+<title id="title">The Hatching Plan</title><desc id="desc">Five live chapters and a sixth exploring future ideas. No committed dates for the exploring chapter.</desc>
+<rect width="1080" height="700" rx="28" fill="#0B1014"/>
+<circle cx="970" cy="55" r="200" fill="#BEFF32" opacity=".045"/>
+<g font-family="Arial, sans-serif"><text x="40" y="57" font-size="18" letter-spacing="4" fill="#BEFF32">SPAWN / THE ROADMAP</text><text x="40" y="111" font-size="42" font-weight="700" fill="#F5F7EE">The Hatching Plan</text><text x="40" y="150" font-size="22" fill="#A4B1B4">From the first idea to what comes next.</text>
+<rect x="40" y="185" width="490" height="133" rx="16" fill="#141E1B" stroke="#BEFF32" stroke-opacity=".35"/>
+<text x="60" y="218" font-size="18" fill="#BEFF32">01</text>
+<text x="508" y="218" text-anchor="end" font-size="15" font-weight="700" letter-spacing="1" fill="#BEFF32">LIVE</text>
+<text x="60" y="259" font-size="30" font-weight="700" fill="#F5F7EE">Dream it</text>
+<text x="60" y="293" font-size="20" fill="#A4B1B4">Identity &amp; project tools</text>
+<rect x="550" y="185" width="490" height="133" rx="16" fill="#141E1B" stroke="#BEFF32" stroke-opacity=".35"/>
+<text x="570" y="218" font-size="18" fill="#BEFF32">02</text>
+<text x="1018" y="218" text-anchor="end" font-size="15" font-weight="700" letter-spacing="1" fill="#BEFF32">LIVE</text>
+<text x="570" y="259" font-size="30" font-weight="700" fill="#F5F7EE">Hatch it</text>
+<text x="570" y="293" font-size="20" fill="#A4B1B4">Solana launches</text>
+<rect x="40" y="338" width="490" height="133" rx="16" fill="#141E1B" stroke="#BEFF32" stroke-opacity=".35"/>
+<text x="60" y="371" font-size="18" fill="#BEFF32">03</text>
+<text x="508" y="371" text-anchor="end" font-size="15" font-weight="700" letter-spacing="1" fill="#BEFF32">LIVE</text>
+<text x="60" y="412" font-size="30" font-weight="700" fill="#F5F7EE">Find your orbit</text>
+<text x="60" y="446" font-size="20" fill="#A4B1B4">Markets, swaps &amp; wallet</text>
+<rect x="550" y="338" width="490" height="133" rx="16" fill="#141E1B" stroke="#BEFF32" stroke-opacity=".35"/>
+<text x="570" y="371" font-size="18" fill="#BEFF32">04</text>
+<text x="1018" y="371" text-anchor="end" font-size="15" font-weight="700" letter-spacing="1" fill="#BEFF32">LIVE</text>
+<text x="570" y="412" font-size="30" font-weight="700" fill="#F5F7EE">Build the Nest</text>
+<text x="570" y="446" font-size="20" fill="#A4B1B4">Buy Bot &amp; community</text>
+<rect x="40" y="491" width="490" height="133" rx="16" fill="#141E1B" stroke="#BEFF32" stroke-opacity=".35"/>
+<text x="60" y="524" font-size="18" fill="#BEFF32">05</text>
+<text x="508" y="524" text-anchor="end" font-size="15" font-weight="700" letter-spacing="1" fill="#BEFF32">LIVE</text>
+<text x="60" y="565" font-size="30" font-weight="700" fill="#F5F7EE">Make it yours</text>
+<text x="60" y="599" font-size="20" fill="#A4B1B4">NFTs &amp; project visibility</text>
+<rect x="550" y="491" width="490" height="133" rx="16" fill="#141E1B" stroke="#C0AEFF" stroke-opacity=".35"/>
+<text x="570" y="524" font-size="18" fill="#C0AEFF">06</text>
+<text x="1018" y="524" text-anchor="end" font-size="15" font-weight="700" letter-spacing="1" fill="#C0AEFF">EXPLORING</text>
+<text x="570" y="565" font-size="30" font-weight="700" fill="#F5F7EE">Next to hatch</text>
+<text x="570" y="599" font-size="20" fill="#A4B1B4">Ideas in the incubator</text>
+<text x="40" y="674" font-size="17" fill="#A4B1B4">Explore the interactive roadmap at spawnmeme.com/roadmap</text></g></svg>

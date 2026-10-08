@@ -30,4 +30,4 @@ SPAWN token-page bonding-curve trades and wider-market swaps are different flows
 
 The [Incinerator](https://spawnmeme.com/burn) supports burning unwanted tokens and closing eligible token accounts to reclaim rent. Burning is irreversible; inspect the selected assets carefully before approving.
 
-[Get help](https://spawnmeme.com/help) · [Current fees](https://spawnmeme.com/fees) · [Back to SPAWN](../README.md)
+[Get help](https://spawnmeme.com/help) · [Current fees](https://spawnmeme.com/fees) · [Documentation hub](README.md) · [FAQ](faq.md) · [Back to SPAWN](../README.md)
