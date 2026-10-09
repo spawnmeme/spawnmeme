@@ -45,3 +45,11 @@ Token deployment supports wallet verification without an email signup. Verificat
 The [Incinerator](https://spawnmeme.com/burn) supports burning unwanted tokens and closing eligible token accounts to reclaim rent. Burning is irreversible; inspect the selected assets carefully before approving.
 
 [Get help](https://spawnmeme.com/help) · [Current fees](https://spawnmeme.com/fees) · [Documentation hub](README.md) · [FAQ](faq.md) · [Back to SPAWN](../README.md)
+
+## Limit orders and token inspection
+
+[Limit orders](feature-guides/discover-and-trade/42-limit-orders.md) let you choose a dollar price for a SOL/token order, with a $10 minimum and expiry up to 30 days. Depositing transfers funds from your wallet to your own Jupiter vault; SPAWN does not hold them. Expired or cancelled orders require completing withdrawal. SPAWN charges no limit-order fee; network and Jupiter fees can apply, and a fill is not guaranteed.
+
+Token pages now include [Top holders](feature-guides/discover-and-trade/44-top-holders.md), [private Alerts](feature-guides/telegram-and-promotion/43-token-alerts.md), [Share](feature-guides/platform-information/45-share-links.md) and [Report](feature-guides/reference-and-support/46-report.md).
+
+If MetaMask reports that an account or method is not authorized, SPAWN asks it to reconnect and retries. If needed, disconnect, select MetaMask again, approve the Solana account and retry. This authorization failure sends no transaction and charges nothing. Start other service troubleshooting with [Status](feature-guides/reference-and-support/48-status.md).

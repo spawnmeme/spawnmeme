@@ -2,7 +2,22 @@
 
 **Find your path from an idea to a project, collection or community.**
 
-[Open SPAWN](https://spawnmeme.com) · [Ask for help](https://spawnmeme.com/help) · [GitBook whitepaper](https://spawnmeme.gitbook.io/spawnmeme-docs) · [All official links](https://linktr.ee/spawnmeme)
+[Open SPAWN](https://spawnmeme.com) · [Ask for help](https://spawnmeme.com/help) · [GitBook Docs & Guides](https://spawnmeme.gitbook.io/spawnmeme-docs) · [All official links](https://linktr.ee/spawnmeme)
+
+## Complete feature manual
+
+Browse **[49 step-by-step guides](feature-guides/README.md)** in 11 sections, with prerequisites, expected results, fees and troubleshooting. The **[platform whitepaper](whitepaper/README.md)** explains the product model and transaction boundaries.
+
+### Added October 9
+
+* [42. Limit orders](feature-guides/discover-and-trade/42-limit-orders.md)
+* [43. Token alerts in Telegram](feature-guides/telegram-and-promotion/43-token-alerts.md)
+* [44. Top holders: check a token before you buy](feature-guides/discover-and-trade/44-top-holders.md)
+* [45. Share links that preview the page](feature-guides/platform-information/45-share-links.md)
+* [46. Report a token, NFT collection or project](feature-guides/reference-and-support/46-report.md)
+* [47. Browse published projects](feature-guides/create-a-project/47-projects.md)
+* [48. Check whether SPAWN is working](feature-guides/reference-and-support/48-status.md)
+* [49. Report a security problem](feature-guides/reference-and-support/49-responsible-disclosure.md)
 
 ## New here?
 

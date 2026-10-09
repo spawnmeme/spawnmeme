@@ -1,5 +1,15 @@
 # Documentation updates
 
+## Feature manual and whitepaper refresh — October 9, 2026
+
+- Added the complete 49-guide manual in 11 sections and the updated 14-chapter whitepaper.
+- Added guides for limit orders, private token alerts, Top holders, rich sharing, reports, Projects, Status and Responsible disclosure.
+- Updated Telegram commands, MetaMask authorization recovery, current fees and feature access.
+- Clarified Jupiter vault deposits and the required withdrawal for expired or cancelled limit orders.
+- Removed outdated paid Spawn Kit instructions and refreshed the security reporting route.
+- Preserved existing SPAWN branding and converted documentation links for GitHub.
+
+
 ## Platform-upgrade documentation refresh — October 8, 2026
 
 - Updated the repository banner to match the approved SPAWN wordmark and current positioning.

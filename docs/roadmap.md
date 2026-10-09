@@ -36,3 +36,7 @@ Exploring items are not available features or scheduled releases. Scope and prio
 Describe a real task that is difficult today. Explain who it affects and what a better result would look like. Bring the idea to [The Nest](https://t.me/spawnmemetg) or [open a feature request](https://github.com/spawnmeme/spawnmeme/issues/new/choose).
 
 [Documentation hub](README.md) · [FAQ](faq.md) · [Back to SPAWN](../README.md)
+
+## Live additions — October 9
+
+Limit orders, private Telegram token alerts, Top holders, rich share links, content reports, published Projects, Status and Responsible disclosure are live. Their coverage and recovery steps are documented in [the 49-guide manual](feature-guides/README.md). Broader post-graduation Buy Bot monitoring remains a separate roadmap direction.

@@ -23,3 +23,9 @@ Creators review the token, recipients, amounts and transaction costs before appr
 Share the exact collection or project page. Publish the full mint or collection address when appropriate. Do not ask community members to send seed phrases or private keys.
 
 [Explore NFTs](https://spawnmeme.com/nfts) · [Explore airdrops](https://spawnmeme.com/airdrop) · [Documentation hub](README.md) · [FAQ](faq.md) · [Back to SPAWN](../README.md)
+
+## Airdrop fees and collection sharing
+
+Creator airdrops carry a **0.001 SOL per recipient** SPAWN fee, plus distributed tokens, network fees and applicable recipient account creation. See [the airdrop guide](feature-guides/community-and-rewards/23-send-airdrops.md).
+
+NFT collection pages support [Share links](feature-guides/platform-information/45-share-links.md) with collection-specific previews and [Report](feature-guides/reference-and-support/46-report.md) for moderation concerns.

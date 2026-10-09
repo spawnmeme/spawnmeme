@@ -31,3 +31,7 @@ Editing an article does not automatically resend its notice. Delivery state prev
 | [Linktree](https://linktr.ee/spawnmeme) | Official destinations in one place |
 
 [Documentation hub](README.md) · [Community](community.md) · [Back to SPAWN](../README.md)
+
+## Article previews
+
+Use **Copy article link** on an article to share its own title and cover image. Social apps may cache older previews. See [Share links](feature-guides/platform-information/45-share-links.md).

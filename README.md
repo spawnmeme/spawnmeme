@@ -10,7 +10,7 @@
   <a href="https://spawnmeme.com/start">Start creating</a> ·
   <a href="https://spawnmeme.com/roadmap">The Hatching Plan</a> ·
   <a href="https://spawnmeme.com/updates">News & Updates</a> ·
-  <a href="https://spawnmeme.gitbook.io/spawnmeme-docs">GitBook whitepaper</a> ·
+  <a href="https://spawnmeme.gitbook.io/spawnmeme-docs">GitBook Docs & Guides</a> ·
   <a href="https://linktr.ee/spawnmeme">All official links</a>
 </p>
 
@@ -29,7 +29,22 @@ Whether you are launching a meme project, creating a collection, exploring marke
 
 ## Fresh from the lab
 
-The SPAWN toolkit keeps growing. Catch up on the latest improvements:
+**October 9 update:** eight new feature guides bring the manual to **49 guides across 11 sections**.
+
+| New tool or guide | What it covers |
+| --- | --- |
+| [Limit orders](docs/feature-guides/discover-and-trade/42-limit-orders.md) | Conditional SOL/token orders, Jupiter vault deposits and withdrawal recovery |
+| [Token alerts in Telegram](docs/feature-guides/telegram-and-promotion/43-token-alerts.md) | Private market-cap and curve-milestone alerts in Telegram |
+| [Top holders: check a token before you buy](docs/feature-guides/discover-and-trade/44-top-holders.md) | Creator holdings and token supply concentration |
+| [Share links that preview the page](docs/feature-guides/platform-information/45-share-links.md) | Page-specific previews for tokens, collections, projects and news |
+| [Report a token, NFT collection or project](docs/feature-guides/reference-and-support/46-report.md) | Private moderation reports for scams, copies and abusive content |
+| [Browse published projects](docs/feature-guides/create-a-project/47-projects.md) | A public directory of published creator pages |
+| [Check whether SPAWN is working](docs/feature-guides/reference-and-support/48-status.md) | Browser-based service checks and troubleshooting |
+| [Report a security problem](docs/feature-guides/reference-and-support/49-responsible-disclosure.md) | Private security reporting and responsible testing rules |
+
+[Read all 49 guides](docs/feature-guides/README.md) · [Platform whitepaper](docs/whitepaper/README.md)
+
+Other recent improvements:
 
 | Upgrade | What it brings | Explore |
 | --- | --- | --- |
@@ -178,7 +193,7 @@ This repository contains public documentation and community resources. Use [spaw
 
 ## Keep up with SPAWN
 
-Read [News & Updates](https://spawnmeme.com/updates) for platform announcements, the [GitBook whitepaper](https://spawnmeme.gitbook.io/spawnmeme-docs) for the broader platform guide, and [Medium](https://medium.com/@spawnmeme) for articles. The bot’s `/updates` command opens the news page; `/links` includes our [Linktree](https://linktr.ee/spawnmeme).
+Read [News & Updates](https://spawnmeme.com/updates) for platform announcements, the [GitBook Docs & Guides](https://spawnmeme.gitbook.io/spawnmeme-docs) for step-by-step instructions and the platform whitepaper, and [Medium](https://medium.com/@spawnmeme) for articles. The bot’s `/updates` command opens the news page; `/links` includes our [Linktree](https://linktr.ee/spawnmeme).
 
 ## Welcome to the Nest
 
@@ -192,6 +207,6 @@ This repository is SPAWN's public documentation and community hub. Application s
 
 Check the official website and the bot's `/ca` command for the current official token mint. Never identify a token by its name or logo alone. Digital assets carry risk; activity rankings, paid visibility and whitelist participation do not guarantee quality, returns or rewards.
 
-[Help](https://spawnmeme.com/help) · [Fees](https://spawnmeme.com/fees) · [Security](https://spawnmeme.com/security) · [Terms](https://spawnmeme.com/terms) · [Repository rights](https://github.com/spawnmeme/spawnmeme/blob/main/LICENSE.md)
+[Status](https://spawnmeme.com/status) · [Responsible disclosure](https://spawnmeme.com/disclosure) · [Help](https://spawnmeme.com/help) · [Fees](https://spawnmeme.com/fees) · [Security](https://spawnmeme.com/security) · [Terms](https://spawnmeme.com/terms) · [Repository rights](https://github.com/spawnmeme/spawnmeme/blob/main/LICENSE.md)
 
 **Spawn it. Launch it. Send it.**

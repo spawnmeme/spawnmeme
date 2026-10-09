@@ -23,7 +23,9 @@ Open [@spawnmeme_bot](https://t.me/spawnmeme_bot). Use `/help` for the current c
 | Command | Purpose |
 | --- | --- |
 | `/token`, `/ca`, `/buy` | Token information, mint and buying shortcut; context depends on the group |
-| `/fresh`, `/hot`, `/top` | Verified launches, paid boosts and recorded curve activity respectively |
+| `/fresh` | Newly launched tokens |
+| `/hot` | Boosted tokens |
+| `/top` | Tokens ranked by SOL raised |
 | `/markets`, `/gainers` | Wider Solana market discovery |
 | `/swap`, `/wallet` | Spawn Swap and My Wallet |
 | `/launch` | Telegram-assisted token launch flow |
@@ -43,3 +45,14 @@ See the [complete buybot command reference](buy-bot-and-trending.md) for exact s
 `/links` aliases such as `/website` and `/socials` use the same official-links response, including [Linktree](https://linktr.ee/spawnmeme).
 
 [Documentation hub](README.md) · [Community](community.md) · [Back to SPAWN](../README.md)
+
+## Private alerts
+
+| Command | Context | Purpose |
+| --- | --- | --- |
+| `/alert MINT` | Private bot chat | Open token-alert choices; replace MINT with the full token address |
+| `/alerts` | Private bot chat | List active alerts; tap one to remove it |
+| `/opsalerts` | Private chat, official group administrators only | Enable Buy Bot/Trending refresh failure messages |
+| `/opsalerts off` | Same administrator context | Disable those failure messages |
+
+See [Token alerts](feature-guides/telegram-and-promotion/43-token-alerts.md) for supported active curves, five-minute checks, market-cap thresholds and the 20-alert limit.

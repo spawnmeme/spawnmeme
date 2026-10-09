@@ -42,3 +42,7 @@ Share your work, ask specific questions and provide constructive feedback. Avoid
 Check the current official token mint on the website and with `/ca` in the main SPAWN group. Admins and the bot never need your seed phrase or private key.
 
 [Documentation hub](README.md) · [FAQ](faq.md) · [Back to SPAWN](../README.md)
+
+## Share projects and flag concerns
+
+Browse [published Projects](feature-guides/create-a-project/47-projects.md), create [preview-ready Share links](feature-guides/platform-information/45-share-links.md), and use [Report](feature-guides/reference-and-support/46-report.md) on a token, collection or project for content concerns. Security vulnerabilities belong in [Responsible disclosure](https://spawnmeme.com/disclosure).

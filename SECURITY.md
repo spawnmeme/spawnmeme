@@ -1,15 +1,20 @@
 # Security reporting
 
-Do not disclose vulnerabilities, active exploits, authentication details or private user data in public issues.
+Report suspected vulnerabilities privately through [SPAWN Responsible disclosure](https://spawnmeme.com/disclosure). Do not post exploit details, authentication data or private user information in public GitHub issues or Telegram groups.
 
-If GitHub private vulnerability reporting is enabled for this repository, use its **Security → Report a vulnerability** option. Otherwise, use [SPAWN Help](https://spawnmeme.com/help) to request a private reporting channel before sharing sensitive details. Do not post exploit details to the public Telegram group.
+Include the affected page or component, what happened, reproducible steps, impact and relevant public transaction signatures. Provide an email or Telegram contact so the team can reply. Never include a seed phrase or private key.
 
-A useful private report identifies the affected page or component, expected and observed behavior, reproduction steps, impact and a minimal safe example.
+## Responsible testing
 
-Do not access other users' accounts or funds, disrupt the service, or carry out destructive testing. This document does not establish a bug bounty, payment commitment or authorization for testing production systems.
+- Use your own wallets and small amounts.
+- Do not access, alter or delete other people’s data or move their funds.
+- Do not disrupt the site, flood it with requests, phish or socially engineer users or staff.
+- Give the team reasonable time to investigate and fix the issue before public disclosure.
 
-SPAWN never needs your seed phrase or private key. Verify official links through [spawnmeme.com](https://spawnmeme.com).
+SPAWN does not run a paid bug bounty. The published disclosure policy describes the response process, good-faith reporting protections and optional credit with the reporter’s permission. Review that policy before testing.
 
-This is a public documentation repository, not the production application. For general product information, see the [security page](https://spawnmeme.com/security).
+For scam tokens, copied projects, stolen artwork or abusive content, use **Report** on the relevant token, NFT collection or project page. For service problems, check [Status](https://spawnmeme.com/status) and [Help](https://spawnmeme.com/help).
 
-[Back to SPAWN](README.md)
+This repository contains public documentation, not the production application.
+
+[Responsible disclosure guide](docs/feature-guides/reference-and-support/49-responsible-disclosure.md) · [Back to SPAWN](README.md)

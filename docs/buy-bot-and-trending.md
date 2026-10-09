@@ -111,3 +111,9 @@ Use the official [Trending page](https://spawnmeme.com/trending) for availabilit
 Check that you and the bot are group administrators, the full mint is correct, and the token has an active supported curve. A capacity message means onboarding is currently full. If media is rejected, check its type, size and Telegram attachment mode. An unavailable statistic means its source could not be confirmed; it is not a zero value.
 
 [Open Buy Bot & Trending](https://spawnmeme.com/trending#buybot) · [All bot commands](telegram-commands.md) · [Documentation hub](README.md) · [FAQ](faq.md) · [Back to SPAWN](../README.md)
+
+## Private token alerts and refreshed data
+
+The shared five-minute refresh records supported tokens’ SOL raised and market cap, marks completed curves as graduated and sends private token alerts. This does not add post-graduation Buy Bot trade monitoring.
+
+Use `/alert MINT` in a private chat for market-cap increases of 25% or 2×, a decrease of 25%, or curve milestones at 25%, 50%, 75% and graduation. `/alerts` lists active alerts; up to 20 may be active. Price thresholds use market cap at creation, send once and end at graduation. See [the full alert guide](feature-guides/telegram-and-promotion/43-token-alerts.md).

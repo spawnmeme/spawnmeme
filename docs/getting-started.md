@@ -48,3 +48,9 @@ Review the network, asset, full mint address, amount and fees. Keep enough SOL f
 Use [Help](https://spawnmeme.com/help), [Fees](https://spawnmeme.com/fees) and [How launches work](https://spawnmeme.com/how-it-works) for current details.
 
 [Documentation hub](README.md) · [FAQ](faq.md) · [Back to SPAWN](../README.md)
+
+## Publish, share and get help
+
+Published creator pages appear in [Projects](feature-guides/create-a-project/47-projects.md) within about a minute; publishing a page does not launch a token. Use its Share link for page-specific previews. Paid Spawn Kit artwork upgrades, subscriptions and card payments are not offered. See [Image Studio](feature-guides/create-a-project/05-image-studio-and-copy.md) and [feature access](feature-guides/create-a-project/07-analytics-and-access.md).
+
+For a problem, check [Status](https://spawnmeme.com/status), then use the relevant [troubleshooting guide](feature-guides/reference-and-support/38-troubleshooting.md).

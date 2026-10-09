@@ -26,3 +26,7 @@ This repository publishes documentation, community resources and brand informati
 There is no application to install or run from this repository. Use [spawnmeme.com](https://spawnmeme.com) to access the platform. Future public code or developer resources should state their own scope and license when released.
 
 [Features](https://spawnmeme.com/features) · [Security](../SECURITY.md) · [Documentation hub](README.md) · [FAQ](faq.md) · [Back to SPAWN](../README.md)
+
+## Conditional trading boundary
+
+Jupiter also supports SPAWN’s limit-order flow. Order deposits leave the user’s wallet for their Jupiter vault; SPAWN does not hold the funds. Expiry does not automatically return the deposit. See [architecture](whitepaper/03-architecture.md) and [limit-order recovery](feature-guides/discover-and-trade/42-limit-orders.md).
