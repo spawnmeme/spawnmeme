@@ -22,7 +22,8 @@ Use this checklist for your own project. It is a preparation guide, not a requir
 
 ## 3. Review the launch
 
-- [ ] Connect the intended creator wallet on the intended network.
+- [ ] Connect the intended creator wallet on the intended network; email signup is not required for wallet-only deployment.
+- [ ] Complete wallet verification and use the same wallet when returning to a draft.
 - [ ] Review the token details, launch configuration and current costs shown by the app.
 - [ ] Keep enough SOL for the transaction and network costs.
 - [ ] Read the wallet approval before signing.
@@ -36,7 +37,9 @@ If a transaction appears pending, check its status before attempting the same ac
 - [ ] Pin a welcome message containing the confirmed project URL and full mint.
 - [ ] Add clear rules and identify your administrators.
 - [ ] Add [@spawnmeme_bot](https://t.me/spawnmeme_bot) if the token meets current [Buy Bot coverage](buy-bot-and-trending.md).
-- [ ] Connect the token from a visible group-admin account and set the desired minimum alert amount.
+- [ ] Connect the token from a visible group-admin account and open `/buybotsettings`.
+- [ ] Choose the minimum alert size, custom media, buy-size tiers and social buttons.
+- [ ] Run `/buybotpreview 0.5` and review the clearly labelled sample.
 - [ ] Check that `/ca` and `/buy` point to the expected token in your project group.
 - [ ] Explain organic rankings and paid promotions accurately if using Trending.
 

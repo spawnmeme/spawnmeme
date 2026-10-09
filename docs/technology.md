@@ -12,7 +12,8 @@ SPAWN combines creation tools with Solana transaction and discovery services.
 | Metaplex Core | NFT collections and digital assets |
 | Arweave | NFT artwork and metadata storage |
 | Solscan | External links to on-chain records |
-| Telegram | Community bot, buy alerts and the Trending channel |
+| Telegram | Community bot, configurable buy alerts, Trending board and optional platform-update notices |
+| MetaMask Solana | Supported Solana wallet connection and signing flows |
 
 A listed technology identifies an integration or infrastructure role. It does not imply a partnership, endorsement, audit or uninterrupted availability. Routing depends on supported assets, liquidity and current quotes.
 

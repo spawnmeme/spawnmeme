@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://spawnmeme.com"><img src="https://raw.githubusercontent.com/spawnmeme/spawnmeme/main/assets/spawn-banner.jpg" alt="SPAWN — Spawn it. Launch it. Send it." width="100%" /></a>
+  <a href="https://spawnmeme.com"><img src="https://raw.githubusercontent.com/spawnmeme/spawnmeme/main/assets/spawn-banner.png" alt="SPAWN — Spawn it. Launch it. Send it." width="100%" /></a>
 </p>
 
 <h1 align="center">Your idea. Your project. Your world.</h1>
@@ -9,7 +9,9 @@
   <a href="https://spawnmeme.com">Open SPAWN</a> ·
   <a href="https://spawnmeme.com/start">Start creating</a> ·
   <a href="https://spawnmeme.com/roadmap">The Hatching Plan</a> ·
-  <a href="https://medium.com/@spawnmeme">Read on Medium</a>
+  <a href="https://spawnmeme.com/updates">News & Updates</a> ·
+  <a href="https://spawnmeme.gitbook.io/spawnmeme-docs">GitBook whitepaper</a> ·
+  <a href="https://linktr.ee/spawnmeme">All official links</a>
 </p>
 
 SPAWN brings project creation, branding, token launches, trading, NFTs and community tools into one connected platform. Start with a wild idea, shape its identity, give it a home, and build on Solana.
@@ -24,6 +26,21 @@ Whether you are launching a meme project, creating a collection, exploring marke
   <a href="https://github.com/spawnmeme/spawnmeme/blob/main/docs/faq.md">FAQ</a> ·
   <a href="https://github.com/spawnmeme/spawnmeme/blob/main/docs/brand.md">Media kit</a>
 </p>
+
+## Fresh from the lab
+
+The SPAWN toolkit keeps growing. Catch up on the latest improvements:
+
+| Upgrade | What it brings | Explore |
+| --- | --- | --- |
+| **Upgraded Buy Bot** | Estimated market cap, curve progress, available holder data, custom photos/GIFs/video, media tiers and settings previews | [Buy Bot guide](docs/buy-bot-and-trending.md) |
+| **Wallet-only launches** | Deploy a token without an email signup; verify the wallet that owns your launch drafts | [Getting started](docs/getting-started.md) |
+| **MetaMask on Solana** | MetaMask joins the wallet selector for supported Solana connection and signing flows | [Wallet guide](docs/markets-and-wallet.md) |
+| **Live Spawn Feed** | Shared updates across the home and feed pages, with highlights for recorded buy activity | [Explore the feed](https://spawnmeme.com/launchpad) |
+| **News & Updates** | Platform announcements, category filters and shareable articles | [Read the news](https://spawnmeme.com/updates) |
+| **Launch Week** | A dated promotion waiving the platform deployment fee, with current status on its dedicated page | [Offer details](docs/launch-week.md) |
+
+[Platform announcements](https://spawnmeme.com/updates) · [Documentation changelog](CHANGELOG.md) · [Telegram commands](docs/telegram-commands.md)
 
 ## Choose your path
 
@@ -73,6 +90,7 @@ Whether you are launching a meme project, creating a collection, exploring marke
 | Review your launched tokens and creator fees | [Creator dashboard](https://spawnmeme.com/creator-dashboard) |
 | Look up on-chain activity or clean up token accounts | [Explorer](https://spawnmeme.com/explorer) · [Incinerator](https://spawnmeme.com/burn) |
 | Explore paid project visibility | [Advertise](https://spawnmeme.com/advertise) |
+| Follow platform announcements | [News & Updates](https://spawnmeme.com/updates) |
 
 </details>
 
@@ -84,11 +102,14 @@ Add **[@spawnmeme_bot](https://t.me/spawnmeme_bot)** to your project's Telegram 
 
 ```text
 /buybot YOUR_TOKEN_MINT
-/buybotmin 0.01
+/buybotsettings
+/buybotpreview 0.5
 /trending
 ```
 
-Use `/stopbuybot` to pause alerts. The current buy bot supports verified SPAWN tokens on active bonding curves. Qualifying tokens receive activity-rank badges; paid promotions are shown separately.
+Customise photos, GIFs or MP4 video, set media for different buy sizes, choose an emoji bar and add social buttons. Alerts can include estimated market cap, bonding-curve progress and holder counts when data is available. Previews are clearly labelled examples.
+
+The buybot is free for supported, verified SPAWN tokens on active bonding curves. Use `/stopbuybot` to pause and `/resumebuybot` to resume. Qualifying tokens receive activity-rank badges; paid promotions remain separate. Graduated pools and arbitrary external tokens are outside current coverage.
 
 [Setup and coverage](https://github.com/spawnmeme/spawnmeme/blob/main/docs/buy-bot-and-trending.md) · [Central Trending channel](https://t.me/spawntrending)
 
@@ -154,6 +175,10 @@ This repository contains public documentation and community resources. Use [spaw
 | [Documentation hub](https://github.com/spawnmeme/spawnmeme/blob/main/docs/README.md) | [Launch checklist](https://github.com/spawnmeme/spawnmeme/blob/main/docs/launch-checklist.md) | [Buy Bot & Trending](https://github.com/spawnmeme/spawnmeme/blob/main/docs/buy-bot-and-trending.md) |
 | [Getting started](https://github.com/spawnmeme/spawnmeme/blob/main/docs/getting-started.md) | [NFTs & airdrops](https://github.com/spawnmeme/spawnmeme/blob/main/docs/nfts-and-airdrops.md) | [Community & channels](https://github.com/spawnmeme/spawnmeme/blob/main/docs/community.md) |
 | [Markets & Wallet](https://github.com/spawnmeme/spawnmeme/blob/main/docs/markets-and-wallet.md) | [Technology](https://github.com/spawnmeme/spawnmeme/blob/main/docs/technology.md) | [Brand & media](https://github.com/spawnmeme/spawnmeme/blob/main/docs/brand.md) |
+
+## Keep up with SPAWN
+
+Read [News & Updates](https://spawnmeme.com/updates) for platform announcements, the [GitBook whitepaper](https://spawnmeme.gitbook.io/spawnmeme-docs) for the broader platform guide, and [Medium](https://medium.com/@spawnmeme) for articles. The bot’s `/updates` command opens the news page; `/links` includes our [Linktree](https://linktr.ee/spawnmeme).
 
 ## Welcome to the Nest
 

@@ -15,6 +15,12 @@ This documentation snapshot was prepared on **October 8, 2026**. The live roadma
 | [Make it yours](https://spawnmeme.com/roadmap?stage=create) | NFT collections; creator airdrops; project visibility | Live |
 | [Next to hatch](https://spawnmeme.com/roadmap?stage=incubator) | Directions for the next evolution of SPAWN | Exploring |
 
+## Recent progress
+
+Wallet-only deployment and MetaMask Solana support improve the launch path. Buybot settings now cover richer statistics, GIF/video, media tiers and sample alerts. Live feed updates and the [news page](https://spawnmeme.com/updates) make activity and announcements easier to follow.
+
+These additions do not turn the remaining Exploring items into committed releases.
+
 ## In the incubator
 
 **Buy bots beyond the curve:** explore graduated-pool support and broader monitoring capacity.

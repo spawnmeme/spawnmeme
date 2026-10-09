@@ -7,6 +7,9 @@ The Nest is SPAWN's community for creators, explorers and people building on Sol
 | Destination | Link |
 | --- | --- |
 | Website | https://spawnmeme.com |
+| All official links | https://linktr.ee/spawnmeme |
+| News & Updates | https://spawnmeme.com/updates |
+| GitBook whitepaper | https://spawnmeme.gitbook.io/spawnmeme-docs |
 | GitHub | https://github.com/spawnmeme/spawnmeme |
 | X | https://x.com/SpawnMemeX |
 | Telegram community | https://t.me/spawnmemetg |
@@ -16,7 +19,7 @@ The Nest is SPAWN's community for creators, explorers and people building on Sol
 | Interactive roadmap | https://spawnmeme.com/roadmap |
 | Help | https://spawnmeme.com/help |
 
-Use Medium for creator guides, platform articles and development stories. Use X for shorter updates, and Telegram for the community.
+Use News & Updates for platform announcements, GitBook for the whitepaper and platform documentation, and Medium for articles and development stories. Use X for shorter updates and Telegram for the community. The news editor supports optional group notices; not every article must generate a Telegram message.
 
 ## Community participation
 
@@ -26,7 +29,9 @@ Use Medium for creator guides, platform articles and development stories. Use X 
 
 ## Useful main-group commands
 
-`/help` · `/features` · `/roadmap` · `/markets` · `/swap` · `/wallet` · `/nfts` · `/airdrop` · `/buybot` · `/trending`
+`/help` · `/links` · `/updates` · `/promo` · `/features` · `/roadmap` · `/markets` · `/swap` · `/wallet` · `/nfts` · `/airdrop` · `/buybot` · `/trending`
+
+See the [command guide](telegram-commands.md) for descriptions and project-group settings.
 
 The command menu can differ between the main community and project groups. Use the [Buy Bot guide](buy-bot-and-trending.md) for project administration.
 

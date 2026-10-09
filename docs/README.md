@@ -2,7 +2,7 @@
 
 **Find your path from an idea to a project, collection or community.**
 
-[Open SPAWN](https://spawnmeme.com) · [Ask for help](https://spawnmeme.com/help) · [Read on Medium](https://medium.com/@spawnmeme)
+[Open SPAWN](https://spawnmeme.com) · [Ask for help](https://spawnmeme.com/help) · [GitBook whitepaper](https://spawnmeme.gitbook.io/spawnmeme-docs) · [All official links](https://linktr.ee/spawnmeme)
 
 ## New here?
 
@@ -21,6 +21,9 @@ Start with [Getting started](getting-started.md). If you already have a token id
 | See the platform's direction | [Roadmap](roadmap.md) | Six chapters and ideas being explored |
 | Understand the integrations | [Technology](technology.md) | The services behind supported tools |
 | Write about SPAWN | [Brand & media](brand.md) | Descriptions, visual assets and official links |
+| Follow platform changes | [News & updates](news-and-updates.md) | Articles, sharing and optional Telegram notices |
+| Use the Telegram bot | [Telegram commands](telegram-commands.md) | Official-group shortcuts and project settings |
+| Review the dated deployment offer | [Launch Week](launch-week.md) | Dates, included fee waiver and remaining costs |
 | Resolve a common question | [FAQ](faq.md) | Launch, trading, bot and account questions |
 
 ## Need something fixed?

@@ -12,7 +12,7 @@ No. A website is optional. If you already have your identity and artwork, start 
 
 ### Do I need an email account?
 
-Requirements vary by feature. Wallet-based tools do not all require an email account. Follow the sign-in or wallet prompt for the specific tool you are using.
+No email signup is required for wallet-only token deployment. Connect and verify your Solana wallet, then use the same wallet to return to your drafts and launched tokens. Some other features use an account. Wallet verification and the actual launch transaction are separate approvals.
 
 ### Can I use SPAWN on my phone?
 
@@ -23,6 +23,10 @@ Use the mobile site and, where needed, open it inside your Solana wallet's brows
 ### How do I identify the correct token?
 
 Compare the full mint address with the project's official source. Names and symbols can be duplicated. For SPAWN's own token, use the official website and the main bot's `/ca` command.
+
+### Can I connect MetaMask?
+
+Yes. Choose MetaMask in SPAWN’s wallet selector and follow the Solana connection prompts. Device and browser support varies. See the [wallet guide](markets-and-wallet.md).
 
 ### Why is a chart or swap route unavailable?
 
@@ -44,7 +48,19 @@ Check that the bot and your visible account are group administrators, that the m
 
 ### Will every buy alert appear immediately?
 
-Delivery depends on supported confirmed activity and monitoring. SPAWN-site buys can trigger alerts promptly; background checks currently run every five minutes. Network conditions can add delays.
+Delivery depends on supported confirmed activity, indexing and monitoring. SPAWN-site buys can trigger alerts promptly; background monitoring helps catch other supported activity. Network and service conditions can add delays.
+
+### Can I use GIFs or video for buy alerts?
+
+Yes. Use a photo, GIF/animation or MP4 video with `/buybotimage` as its caption, or reply to the media with the command. Photos support up to 10 MB; animation/video up to 50 MB. Send media in its normal Telegram mode, not as a document. You can also configure medium and large buy-size tiers.
+
+### Why does market cap, curve progress or holder count say unavailable?
+
+Optional statistics depend on confirmed pool configuration, mint data and external data sources. If a source cannot be confirmed, the alert labels the statistic unavailable instead of guessing. See the [buybot guide](buy-bot-and-trending.md).
+
+### Do sample previews create activity?
+
+No. `/buybotpreview` uses clearly labelled example data and does not create a trade, affect a rank or count as a payment.
 
 ### Does paying for visibility improve the organic rank?
 
@@ -53,6 +69,16 @@ Paid promotions are displayed separately. Organic ranks reflect qualifying activ
 ### Can I send SOL directly to activate Trending?
 
 Create an order on the official [Trending page](https://spawnmeme.com/trending) and follow the order-specific instructions. An unsolicited transfer cannot be assumed to activate a campaign.
+
+## Updates and promotions
+
+### Where can I read platform announcements?
+
+Use [News & Updates](https://spawnmeme.com/updates) or `/updates` in the SPAWN bot. Articles have individual shareable links. [Linktree](https://linktr.ee/spawnmeme) and `/links` collect official destinations.
+
+### Does Launch Week make every launch cost free?
+
+No. The October 8–15, 2026 promotion waives the 0.025 SOL platform deployment fee during its stated window. Network fees, account creation costs and optional first buys still apply. See [the offer details](launch-week.md) and the current launch quote.
 
 ## NFTs, quests and this repository
 

@@ -13,13 +13,25 @@ Start at [spawnmeme.com/start](https://spawnmeme.com/start) and choose the path 
 
 A website is optional. Creators with an existing identity can go directly to [Deploy a Token](https://spawnmeme.com/create-token).
 
+## Launch with your wallet — no email signup required
+
+1. Open [Deploy a Token](https://spawnmeme.com/create-token).
+2. Connect your intended Solana wallet.
+3. Approve the wallet verification message to establish your session.
+4. Create or continue a draft associated with that wallet.
+5. Review and approve the separate launch transaction when ready.
+
+Return with the same wallet to load wallet-linked drafts and launched tokens. The creator dashboard also supports the launch wallet. An email account remains available for features that use an account.
+
+Wallet verification is not the deployment transaction. Review the applicable fee quote, account creation costs, network fees and any optional first buy separately. See [Launch Week](launch-week.md) for the dated deployment-fee offer.
+
 ## Explore and trade
 
 Use [Markets](https://spawnmeme.com/markets) for wider Solana discovery or the [Spawn Feed](https://spawnmeme.com/launchpad) for launched projects. Compare the full mint address before reviewing a quote in [Spawn Swap](https://spawnmeme.com/spawn-swap).
 
 [My Wallet](https://spawnmeme.com/wallet) brings balances, holdings and recent activity into the platform. You approve supported on-chain actions in your wallet.
 
-On a phone, use your wallet's browser when its connection flow requires it. Account requirements vary by feature; wallet-based tools do not all require an email account.
+Wallet options include Phantom, Solflare, Backpack, SafePal and MetaMask. Choose the wallet you intend to use and follow its Solana connection prompts. Device and browser compatibility varies; see the [wallet guide](markets-and-wallet.md).
 
 ## Build beyond launch
 

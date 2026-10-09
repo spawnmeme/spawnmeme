@@ -10,6 +10,12 @@ Supported tokenized assets may also appear in Markets. Availability and eligibil
 
 A listing, verification label or market rank is a discovery signal, not a guarantee about a project. Market data can lag.
 
+## A more responsive Spawn Feed
+
+The homepage feed and dedicated Spawn Feed share their launch data. Realtime updates are backed by periodic refreshes, helping newly recorded launches appear across both views.
+
+Cards can briefly highlight when new buy activity is recorded. Duplicate events are filtered. Confirmation and indexing can introduce delays; a visual highlight is not a promise of immediate execution or future performance.
+
 ## Inspect
 
 Open the token's page and check its full mint address. Review available market information and follow external on-chain records when you need more detail.
@@ -23,6 +29,14 @@ Use [Explorer](https://spawnmeme.com/explorer) to look up a Solana token, wallet
 Quotes depend on the asset, liquidity and current market conditions. Read the input/output tokens, expected output, slippage and wallet transaction before approval. A displayed quote does not guarantee that a route will remain available.
 
 SPAWN token-page bonding-curve trades and wider-market swaps are different flows; consult the current fee details for the flow you use.
+
+## Choose your Solana wallet
+
+SPAWN offers Phantom, Solflare, Backpack, SafePal and MetaMask in its wallet selector. MetaMask uses its Solana connection flow, including supported injected-wallet and mobile/QR options. Choose **MetaMask** explicitly and approve the connection in the intended wallet.
+
+Wallet options depend on the device, wallet version and browser. SafePal on Android has had loading/freezing reports, so compatibility across all Android wallet browsers should not be assumed. For a problem report, include the page, device, wallet version and browser through [Help](https://spawnmeme.com/help).
+
+Token deployment supports wallet verification without an email signup. Verification messages and transaction approvals serve separate purposes, and both remain in your wallet.
 
 ## Follow your wallet
 

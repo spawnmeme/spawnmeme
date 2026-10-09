@@ -20,7 +20,7 @@ SPAWN helps creators turn an idea into a project with its own identity, artwork 
 
 | Asset | Preview or download | Use |
 | --- | --- | --- |
-| SPAWN banner | [View the banner](../assets/spawn-banner.jpg) | Platform introductions and coverage |
+| SPAWN banner | [View the banner](../assets/spawn-banner.png) | Platform introductions and coverage |
 | Create & Launch | [SVG](../assets/create.svg) | Project creation guides |
 | Spawn Swap | [SVG](../assets/swap.svg) | Swap feature coverage |
 | Markets & Wallet | [SVG](../assets/markets.svg) | Discovery and wallet guides |
@@ -33,7 +33,7 @@ Link back to [spawnmeme.com](https://spawnmeme.com) when referencing the platfor
 
 ## Visual identity
 
-The lime hatchling, dark laboratory imagery and SPAWN wordmark form the recognizable visual identity. The repository's assets use the established lime, charcoal and white palette.
+Use the approved angular white SPAWN wordmark with its lime dot, as shown in the updated banner. Do not substitute a typed wordmark or the older squared lettering. The lime hatchling and dark laboratory imagery complete the visual identity. The repository's assets use the established lime, charcoal and white palette.
 
 | Colour | Hex |
 | --- | --- |
