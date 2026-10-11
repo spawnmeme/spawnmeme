@@ -47,6 +47,11 @@ A transaction's actual instructions and deployed configuration determine its exe
 Edition 1.1 incorporates the supplied October 9 platform release package: eight new guides, updated commands, fees, recovery instructions and related whitepaper chapters. The new feature descriptions were supplied from a review of the live site and code; this documentation update does not claim independent mainnet testing of every workflow.
 
 
+## October 10 creator-fee edition
+
+Edition 1.2 adds guide 50 from the supplied creator-fee update and revises the dashboard, trading, referral and economics documentation. The current application’s curve fee constants and claim implementation were inspected. This documentation review did not execute a mainnet claim or promise earnings.
+
+
 ***
 
 [Previous: 13. Public resources and participation](13-ecosystem.md)

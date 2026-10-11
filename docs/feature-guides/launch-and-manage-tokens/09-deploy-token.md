@@ -44,6 +44,13 @@ Do not erase saved receipts while a launch is pending. A transaction signature i
 
 **Next:** [Creator Dashboard](11-creator-dashboard.md), [Buy Bot](../telegram-and-promotion/28-buybot-setup.md) and [launch fees](../reference-and-support/37-fees.md).
 
+## Creator earnings for new launches
+
+Tokens launched with creator fees earn the launch wallet about **0.25% of each bonding-curve trade**, from the first trade. This is included in the existing **1.2% trading fee**, not an additional charge. Tokens launched before creator fees were enabled retain a permanent 0% creator share on the curve. After graduation, creators can claim the eligible trading fees of the locked Meteora pool, after Meteora’s share. Earnings require trading and may be zero.
+
+Keep access to the launch wallet: it is required to claim. Read [50. Claim your creator fees](50-claim-creator-fees.md).
+
+
 ***
 
 [Guide home](../README.md) · [Troubleshooting](../reference-and-support/38-troubleshooting.md) · [Get help](../reference-and-support/39-support-and-safety.md)

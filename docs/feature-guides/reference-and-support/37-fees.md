@@ -45,6 +45,15 @@ If the wallet amount materially differs from the quote and you cannot explain it
 [Limit orders](../discover-and-trade/42-limit-orders.md) carry **no SPAWN fee**. The minimum order is **$10**. Solana network fees and any Jupiter fees apply. Deposited order funds are trade principal, not a SPAWN service payment.
 
 
+## Creator earnings and claiming
+
+Tokens launched with creator fees earn the launch wallet about **0.25% of each bonding-curve trade**, from the first trade. This is included in the existing **1.2% trading fee**, not an additional charge. Tokens launched before creator fees were enabled retain a permanent 0% creator share on the curve. After graduation, creators can claim the eligible trading fees of the locked Meteora pool, after Meteora’s share. Earnings require trading and may be zero.
+
+The current creator-fee configuration allocates **0.24% of trade value to Meteora**, **0.2496% to the creator** (displayed as about 0.25%) and **0.7104% to SPAWN**, before any referral payout from SPAWN’s share. These sum to the existing 1.2% fee. The pool’s permanent settings determine eligibility.
+
+Claims have no additional SPAWN service fee; Solana network costs apply and should be reviewed in the wallet. Fees are paid directly from the pool to the launch wallet in SOL. See [50. Claim your creator fees](../launch-and-manage-tokens/50-claim-creator-fees.md).
+
+
 ***
 
 [Guide home](../README.md) · [Troubleshooting](38-troubleshooting.md) · [Get help](39-support-and-safety.md)

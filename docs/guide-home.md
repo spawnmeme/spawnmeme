@@ -10,7 +10,7 @@ SPAWN connects project creation, Solana token launches, discovery, trading, NFTs
 
 | Start here                                                             | What you will find                                                                                                       |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Feature guides](feature-guides/README.md)                          | 49 step-by-step guides for creators, traders, collectors and community administrators, organized into 11 topic sections. |
+| [Feature guides](feature-guides/README.md)                          | 50 step-by-step guides for creators, traders, collectors and community administrators, organized into 11 topic sections. |
 | [Platform whitepaper](whitepaper/README.md) | The platform vision, architecture, launch model, economics, security boundaries and development direction.               |
 | [News & Updates](https://spawnmeme.com/updates)                        | Platform announcements and product changes.                                                                              |
 
@@ -33,4 +33,4 @@ Each whitepaper chapter retains its edition context. For current controls, suppo
 
 [Open SPAWN](https://spawnmeme.com) · [All official links](https://linktr.ee/spawnmeme) · [Telegram community](https://t.me/spawnmemetg) · [X](https://x.com/SpawnMemeX) · [GitHub](https://github.com/spawnmeme/spawnmeme) · [Medium](https://medium.com/@spawnmeme)
 
-_Documentation hub updated October 9, 2026._
+_Documentation hub updated October 10, 2026._

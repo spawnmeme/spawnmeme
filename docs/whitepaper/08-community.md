@@ -39,6 +39,11 @@ Useful participation is distinct from manufactured volume, impersonation and rep
 [Projects](../feature-guides/create-a-project/47-projects.md) lists published creator pages, including pages without a token. [Share links](../feature-guides/platform-information/45-share-links.md) provide page-specific social previews for projects, tokens, NFT collections and news, including eligible token referral links. [Report](../feature-guides/reference-and-support/46-report.md) sends content concerns to SPAWN’s private moderation queue; hiding an item does not remove its blockchain record.
 
 
+## Referral basis with creator fees
+
+The creator’s curve-fee share is paid from the existing trading-fee allocation. Referral percentages continue to apply to SPAWN’s own remaining fee revenue, not the entire trader-paid curve fee. Pool settings therefore affect the base used for referral earnings.
+
+
 ***
 
 [Previous: 7. Buy Bot and Trending](07-buybot-trending.md) · [Next: 9. Fees and creator economics](09-economics.md)

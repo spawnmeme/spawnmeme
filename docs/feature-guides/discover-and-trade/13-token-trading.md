@@ -53,6 +53,11 @@ New SPAWN bonding pools use a 1.2% base trading fee. Other protocol and network 
 To trade at a chosen dollar price, use [Limit orders](42-limit-orders.md). These are a separate Jupiter flow, with funds deposited into your Jupiter vault and no guaranteed fill.
 
 
+## How the curve trading fee is shared
+
+For creator-fee launches, the creator receives about 0.25% of trade value from the existing 1.2% curve fee. Older pools retain their original settings. This does not add another fee to the trader’s quote. See [50. Claim your creator fees](../launch-and-manage-tokens/50-claim-creator-fees.md).
+
+
 ***
 
 [Guide home](../README.md) · [Troubleshooting](../reference-and-support/38-troubleshooting.md) · [Get help](../reference-and-support/39-support-and-safety.md)

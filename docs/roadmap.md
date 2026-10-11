@@ -39,4 +39,8 @@ Describe a real task that is difficult today. Explain who it affects and what a 
 
 ## Live additions — October 9
 
-Limit orders, private Telegram token alerts, Top holders, rich share links, content reports, published Projects, Status and Responsible disclosure are live. Their coverage and recovery steps are documented in [the 49-guide manual](feature-guides/README.md). Broader post-graduation Buy Bot monitoring remains a separate roadmap direction.
+Limit orders, private Telegram token alerts, Top holders, rich share links, content reports, published Projects, Status and Responsible disclosure are live. Their coverage and recovery steps are documented in [the 50-guide manual](feature-guides/README.md). Broader post-graduation Buy Bot monitoring remains a separate roadmap direction.
+
+## Creator fees — October 10
+
+Eligible new launches earn about 0.25% of each curve trade from the existing fee. Older pools retain their permanent settings. [Claim creator fees](feature-guides/launch-and-manage-tokens/50-claim-creator-fees.md).

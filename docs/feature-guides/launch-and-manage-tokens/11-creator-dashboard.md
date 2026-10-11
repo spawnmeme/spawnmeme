@@ -14,26 +14,26 @@ The dashboard lists verified launches recorded for the wallet. A project draft w
 
 ## Understand creator earnings
 
-SPAWN's current model pays no creator trading earnings while a token remains on its bonding curve. After graduation, eligible trading fees accrue to the creator's locked Meteora position. Earnings depend on subsequent trading and may be zero.
+Tokens launched with creator fees earn the launch wallet about **0.25% of each bonding-curve trade**, from the first trade. This is included in the existing **1.2% trading fee**, not an additional charge. Tokens launched before creator fees were enabled retain a permanent 0% creator share on the curve. After graduation, creators can claim the eligible trading fees of the locked Meteora pool, after Meteora’s share. Earnings require trading and may be zero.
 
-The position's liquidity stays locked. **Claim fees** collects available fees; it does not withdraw the underlying liquidity. The dashboard can show SOL and, where present, token units. Any USD figure is only an estimate.
+Creator fees wait in the token’s own pool until claimed and do not expire. SPAWN does not hold them. Only the launch wallet can sign the claim. Graduated liquidity remains permanently locked; claiming fees does not withdraw it.
 
 ## Claim available fees
 
-1. In **Creator earnings**, find the graduated token.
-2. Check **Unclaimed** and the connected wallet.
-3. Choose **Claim fees** when available.
-4. Review and approve the wallet transaction. Multiple positions can require multiple approvals.
-5. Wait for confirmation and use **Claimed. View the transaction** to inspect the result.
+1. Open **Creator earnings** with the original launch wallet.
+2. Check **Curve fees unclaimed** for accrued curve fees and **Unclaimed** for graduated pool fees.
+3. Select **Claim curve fees** or **Claim fees**. Each button claims for one token in one transaction.
+4. Review the SOL payout and network fee, then approve in your wallet.
+5. Wait for **Claimed. View transaction** and inspect the confirmed result. New trading fees may accrue immediately after the claim.
 
-Claims have network costs. Very small fee amounts may not justify the immediate transaction cost; the screen can flag this. The claim may also unwrap existing wrapped SOL into ordinary SOL.
+Curve fees remain claimable after graduation. The graduated Meteora position can take a few minutes to appear. Network costs apply; small balances can be left to accumulate. See [50. Claim your creator fees](50-claim-creator-fees.md) for the complete walkthrough and recovery steps.
 
 ## Troubleshooting
 
 | State                                 | Meaning and next step                                                                                                      |
 | ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | No tokens                             | Verify the original launch wallet and that registration completed. Check [launch recovery](09-deploy-token.md).   |
-| On the bonding curve                  | No creator earnings yet under this model.                                                                                  |
+| On the bonding curve | Creator-fee launches can accrue claimable fees. Older launches retain 0% curve earnings; check the token’s displayed eligibility. |
 | Graduated, position not in wallet yet | Pool/position creation may still be completing. Recheck later with the same wallet.                                        |
 | **Nothing to claim**                  | The readable position currently has no unclaimed fees.                                                                     |
 | Earnings unavailable                  | Refresh after connectivity/RPC recovers; an unavailable response is not a zero balance.                                    |

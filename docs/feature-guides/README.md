@@ -4,7 +4,7 @@
 
 **Create, launch and grow on Solana.** Learn how to use each SPAWN feature, check what a successful action looks like, and recover when something goes wrong.
 
-This companion to the SPAWN whitepaper contains **49 numbered guides**. Start with a task below, or use the ordered sidebar. Each feature has its own page so you can send your community directly to the instructions they need.
+This companion to the SPAWN whitepaper contains **50 numbered guides**. Start with a task below, or use the ordered sidebar. Each feature has its own page so you can send your community directly to the instructions they need.
 
 ## Choose your path
 
@@ -12,7 +12,7 @@ This companion to the SPAWN whitepaper contains **49 numbered guides**. Start wi
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | First visit               | [Start here](getting-started/01-start-here.md) → [Connect a wallet](getting-started/02-connect-wallet.md)                                                                                     |
 | Build a brand and page    | [SPAWN AI](create-a-project/04-spawn-ai.md) → [Artwork and copy](create-a-project/05-image-studio-and-copy.md) → [Build and publish](create-a-project/06-builder-publishing.md)                                    |
-| Launch without email      | [Deploy a Token](launch-and-manage-tokens/09-deploy-token.md) → [Creator Dashboard](launch-and-manage-tokens/11-creator-dashboard.md)                                                                                |
+| Launch without email      | [Deploy a Token](launch-and-manage-tokens/09-deploy-token.md) → [Creator Dashboard](launch-and-manage-tokens/11-creator-dashboard.md) → [50. Claim your creator fees](launch-and-manage-tokens/50-claim-creator-fees.md) |
 | Discover and trade        | [Feed](discover-and-trade/12-spawn-feed.md) → [Token-page trading](discover-and-trade/13-token-trading.md), or [Markets](discover-and-trade/14-markets.md) → [Swap](discover-and-trade/15-spawn-swap.md) → [Top holders](discover-and-trade/44-top-holders.md) → [Limit orders](discover-and-trade/42-limit-orders.md) |
 | Create NFTs               | [Collection](nfts/18-nft-collections.md) → [Individual NFT](nfts/19-individual-nfts.md) or [Public mint setup](nfts/20-public-mint-setup.md)                                   |
 | Grow a Telegram community | [Buy Bot setup](telegram-and-promotion/28-buybot-setup.md) → [Media and settings](telegram-and-promotion/29-buybot-customization.md) → [Trending](telegram-and-promotion/30-trending.md)                                      |
@@ -27,7 +27,7 @@ Wallet connection, a free message signature and a paid transaction are different
 
 ## Version and availability
 
-**Edition 1.1 · Updated 9 October 2026.** This edition incorporates the October 9 release package, prepared from the live site and its code, alongside the earlier implementation review. They are documentation, not a claim that every wallet/device combination or paid workflow was independently exercised on mainnet.
+**Edition 1.2 · Updated 10 October 2026.** This edition incorporates the October 9 release package and the October 10 creator-fee guide, with the fee split and claiming flow checked against the current site code. They are documentation, not a claim that every wallet/device combination or paid workflow was independently exercised on mainnet.
 
 Current activation settings, wallet ownership, project access and provider coverage can limit a feature. Live quotes, status messages and [News & Updates](https://spawnmeme.com/updates) take precedence when the product changes. Known restrictions are stated in the relevant guide, including custom-domain availability, analytics access, supported Buy Bot curves and reported SafePal Android issues.
 
@@ -55,6 +55,7 @@ The [administrator publishing guide](platform-administration/41-publish-updates.
 * [09. Deploy a Solana token](launch-and-manage-tokens/09-deploy-token.md)
 * [10. Prepare a launch in Telegram](launch-and-manage-tokens/10-telegram-launch.md)
 * [11. Creator Dashboard and earnings](launch-and-manage-tokens/11-creator-dashboard.md)
+* [50. Claim your creator fees](launch-and-manage-tokens/50-claim-creator-fees.md)
 
 ### Discover and trade
 

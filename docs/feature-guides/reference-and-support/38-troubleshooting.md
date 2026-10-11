@@ -70,6 +70,11 @@ When a feature is not working, check [Status](48-status.md) first. It runs check
 For **Depositing**, **Waiting for price**, an expired order or **Withdrawal not finished**, follow [Limit orders](../discover-and-trade/42-limit-orders.md). Do not duplicate a deposit; expiry does not automatically return the vault balance.
 
 
+## Recover a creator-fee claim
+
+If a claim fails or times out, keep any transaction signature and inspect it before retrying. A failed submitted transaction may still incur a network fee. Refresh the claimable amount and wallet balance; retry only after confirming the earlier claim did not succeed. Older tokens may have no curve claim because their creator share is permanently zero. See [50. Claim your creator fees](../launch-and-manage-tokens/50-claim-creator-fees.md).
+
+
 ***
 
 [Guide home](../README.md) · [Troubleshooting](38-troubleshooting.md) · [Get help](39-support-and-safety.md)

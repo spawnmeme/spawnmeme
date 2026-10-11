@@ -56,6 +56,15 @@ If a term appears in an error, keep the exact message and use [Troubleshooting](
 | Top holders | The token-page view of the largest holders, creator holdings and top-ten concentration excluding the bonding pool from that aggregate. |
 
 
+## Creator fee terms
+
+| Term | Meaning |
+| --- | --- |
+| Creator curve fees | The launch wallet’s share of eligible curve trading fees; about 0.25% of trade value under the current creator-fee configuration. |
+| Claim curve fees | The wallet-signed action collecting accrued creator curve fees, including any remaining after graduation. |
+| Legacy pool settings | Permanent settings of an earlier launch; a 0% creator curve share cannot be changed retroactively. |
+
+
 ***
 
 [Guide home](../README.md) · [Troubleshooting](38-troubleshooting.md) · [Get help](39-support-and-safety.md)

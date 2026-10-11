@@ -40,6 +40,11 @@ The October 9 release includes live limit orders, private Telegram token alerts,
 These additions are live features, not future delivery commitments. Broader post-graduation Buy Bot monitoring remains a separate roadmap direction.
 
 
+## October 10: creator curve earnings
+
+Eligible creator-fee launches can now earn about 0.25% of each bonding-curve trade, with wallet-signed claims in the Creator Dashboard. Legacy pool settings remain unchanged. [50. Claim your creator fees](../feature-guides/launch-and-manage-tokens/50-claim-creator-fees.md) documents the live workflow.
+
+
 ***
 
 [Previous: 11. Security, controls and limitations](11-security.md) · [Next: 13. Public resources and participation](13-ecosystem.md)

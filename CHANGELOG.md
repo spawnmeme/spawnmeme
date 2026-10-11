@@ -1,5 +1,14 @@
 # Documentation updates
 
+## Creator earnings documentation — October 10, 2026
+
+- Added guide 50 for claiming creator curve fees and graduated pool fees.
+- Corrected older statements that all creator earnings begin after graduation.
+- Documented the approximately 0.25% eligible creator share within the existing 1.2% curve trading fee and the permanent settings of older pools.
+- Updated dashboard instructions, fees, referrals, troubleshooting, whitepaper and the 50-guide indexes.
+- Clarified transaction-status checks before retrying a claim and variable network costs.
+
+
 ## Feature manual and whitepaper refresh — October 9, 2026
 
 - Added the complete 49-guide manual in 11 sections and the updated 14-chapter whitepaper.

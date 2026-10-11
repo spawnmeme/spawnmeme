@@ -30,6 +30,13 @@ Under the documented model, graduated liquidity is permanently locked in a Meteo
 
 A liquidity lock is a specific restriction on a position. It is not a guarantee of token value, active trading, creator conduct or protocol security.
 
+## Creator earnings before and after graduation
+
+Tokens launched with creator fees earn the launch wallet about **0.25% of each bonding-curve trade**, from the first trade. This is included in the existing **1.2% trading fee**, not an additional charge. Tokens launched before creator fees were enabled retain a permanent 0% creator share on the curve. After graduation, creators can claim the eligible trading fees of the locked Meteora pool, after Meteora’s share. Earnings require trading and may be zero.
+
+Accrued curve fees stay claimable after graduation. The graduated pool’s fees are a separate claim; locked liquidity remains inaccessible. See [50. Claim your creator fees](../feature-guides/launch-and-manage-tokens/50-claim-creator-fees.md).
+
+
 ***
 
 [Previous: 3. Architecture and transaction boundaries](03-architecture.md) · [Next: 5. Markets, trading and wallet tools](05-markets-wallet.md)

@@ -54,3 +54,7 @@ Use [Help](https://spawnmeme.com/help), [Fees](https://spawnmeme.com/fees) and [
 Published creator pages appear in [Projects](feature-guides/create-a-project/47-projects.md) within about a minute; publishing a page does not launch a token. Use its Share link for page-specific previews. Paid Spawn Kit artwork upgrades, subscriptions and card payments are not offered. See [Image Studio](feature-guides/create-a-project/05-image-studio-and-copy.md) and [feature access](feature-guides/create-a-project/07-analytics-and-access.md).
 
 For a problem, check [Status](https://spawnmeme.com/status), then use the relevant [troubleshooting guide](feature-guides/reference-and-support/38-troubleshooting.md).
+
+## Collect creator earnings
+
+Tokens launched with creator fees earn the launch wallet about **0.25% of each bonding-curve trade**, from the first trade. This is included in the existing **1.2% trading fee**, not an additional charge. Tokens launched before creator fees were enabled retain a permanent 0% creator share on the curve. After graduation, creators can claim the eligible trading fees of the locked Meteora pool, after Meteora’s share. Earnings require trading and may be zero. Connect your launch wallet in the Creator Dashboard and follow [Claim your creator fees](feature-guides/launch-and-manage-tokens/50-claim-creator-fees.md).

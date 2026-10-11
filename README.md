@@ -29,7 +29,9 @@ Whether you are launching a meme project, creating a collection, exploring marke
 
 ## Fresh from the lab
 
-**October 9 update:** eight new feature guides bring the manual to **49 guides across 11 sections**.
+**October 10 update:** the manual now includes **50 guides across 11 sections**, with a new [creator-fee claiming guide](docs/feature-guides/launch-and-manage-tokens/50-claim-creator-fees.md). Eligible new launches earn about **0.25% of each curve trade** from the existing 1.2% trading fee; older pools retain their original settings.
+
+The October 9 release also introduced eight guides:
 
 | New tool or guide | What it covers |
 | --- | --- |
@@ -42,7 +44,7 @@ Whether you are launching a meme project, creating a collection, exploring marke
 | [Check whether SPAWN is working](docs/feature-guides/reference-and-support/48-status.md) | Browser-based service checks and troubleshooting |
 | [Report a security problem](docs/feature-guides/reference-and-support/49-responsible-disclosure.md) | Private security reporting and responsible testing rules |
 
-[Read all 49 guides](docs/feature-guides/README.md) · [Platform whitepaper](docs/whitepaper/README.md)
+[Read all 50 guides](docs/feature-guides/README.md) · [Platform whitepaper](docs/whitepaper/README.md)
 
 Other recent improvements:
 

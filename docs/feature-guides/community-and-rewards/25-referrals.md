@@ -44,6 +44,11 @@ Copying a link is free. Optional bonus account setup and referred trades have th
 On a token page, connect your referral wallet and use **Copy my referral link**. The copied link includes your code and previews the token’s own artwork and details. Eligible attribution still follows the referral rules. See [45. Share links that preview the page](../platform-information/45-share-links.md).
 
 
+## Creator fees and referral calculations
+
+Creator earnings come from the existing curve-fee split. Referral rewards continue to use the fee SPAWN itself receives after applicable deductions, rather than 25% of the entire 1.2% trading fee. A pool’s creator setting affects SPAWN’s remaining share. See [50. Claim your creator fees](../launch-and-manage-tokens/50-claim-creator-fees.md).
+
+
 ***
 
 [Guide home](../README.md) · [Troubleshooting](../reference-and-support/38-troubleshooting.md) · [Get help](../reference-and-support/39-support-and-safety.md)

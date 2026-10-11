@@ -17,6 +17,7 @@
     * [09. Deploy a Solana token](feature-guides/launch-and-manage-tokens/09-deploy-token.md)
     * [10. Prepare a launch in Telegram](feature-guides/launch-and-manage-tokens/10-telegram-launch.md)
     * [11. Creator Dashboard and earnings](feature-guides/launch-and-manage-tokens/11-creator-dashboard.md)
+    * [50. Claim your creator fees](feature-guides/launch-and-manage-tokens/50-claim-creator-fees.md)
   * [Discover and trade](feature-guides/discover-and-trade/README.md)
     * [12. Use the live Spawn Feed](feature-guides/discover-and-trade/12-spawn-feed.md)
     * [13. Trade on a SPAWN token page](feature-guides/discover-and-trade/13-token-trading.md)

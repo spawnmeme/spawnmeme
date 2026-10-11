@@ -6,7 +6,11 @@
 
 ## Complete feature manual
 
-Browse **[49 step-by-step guides](feature-guides/README.md)** in 11 sections, with prerequisites, expected results, fees and troubleshooting. The **[platform whitepaper](whitepaper/README.md)** explains the product model and transaction boundaries.
+Browse **[50 step-by-step guides](feature-guides/README.md)** in 11 sections, with prerequisites, expected results, fees and troubleshooting. The **[platform whitepaper](whitepaper/README.md)** explains the product model and transaction boundaries.
+
+### Added October 10
+
+* [50. Claim your creator fees](feature-guides/launch-and-manage-tokens/50-claim-creator-fees.md) — eligibility, curve and graduated-pool claims, costs and recovery.
 
 ### Added October 9
 
