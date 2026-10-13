@@ -42,6 +42,9 @@ Use [Responsible disclosure](../feature-guides/reference-and-support/49-responsi
 
 A swap uses a current quote, with funds in the wallet until the transaction executes. A limit order waits for the selected dollar price with funds deposited in your own Jupiter vault. SPAWN does not hold the deposit. Expired orders require withdrawal; cancellation also requires completing the withdrawal. Only the connected owner wallet can deposit or withdraw.
 
+## Interpreting inspection labels
+
+RugCheck findings, holder concentration, lock schedules, creator profiles and DEX paid status answer different questions. No one label guarantees safety. Some token locks can be cancelled; a locked balance does not restrict a creator's other wallets. Immutability prevents metadata edits but does not independently guarantee the permanence of external file hosting. Download the Android APK through the official page and compare the fingerprint for that release. Store submission is not store approval.
 
 ***
 

@@ -31,6 +31,10 @@ One person can control several wallets, so treat the card as a guide and not a g
 
 **Success:** you can see the creator's share and the top 10 share before you decide.
 
+## Combine holdings with other evidence
+
+Use the [RugCheck report and optional holder map](56-risk-reports.md), [token-lock schedules](../launch-and-manage-tokens/54-token-locks.md) and [creator profile](../launch-and-manage-tokens/52-creator-profiles.md) alongside the holder table. A cancellable lock, paid DEX profile, badge or linked wallet does not establish independent ownership or guarantee future conduct.
+
 ***
 
 [Guide home](../README.md) · [Trade on a token page](13-token-trading.md) · [Report a problem](../reference-and-support/46-report.md)

@@ -50,6 +50,9 @@ Tokens launched with creator fees earn the launch wallet about **0.25% of each b
 
 Keep access to the launch wallet: it is required to claim. Read [50. Claim your creator fees](50-claim-creator-fees.md).
 
+## Check your launch after publication
+
+The launch flow may use an available branded mint ending in `spwn`, with a normal mint as fallback. A suffix is not guaranteed and does not prove authenticity: compare the full address. Current launches lock metadata at creation; eligible older Classic tokens can use [Lock token metadata](55-lock-token-metadata.md). You can also inspect or create [token locks](54-token-locks.md), review your [creator profile](52-creator-profiles.md), and manage a [DEX Screener profile](../telegram-and-promotion/57-dex-screener-profile.md). These are separate actions with separate requirements.
 
 ***
 

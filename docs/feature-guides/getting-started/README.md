@@ -7,3 +7,7 @@ Choose a guide below for prerequisites, instructions, expected results and troub
 * [03. Accounts, Settings and wallet linking](03-account-settings.md)
 
 [All Feature Guides](../README.md)
+
+## Added in this edition
+
+* [51. Install SPAWN for Android](51-android-app.md)

@@ -14,3 +14,7 @@ Choose a guide below for prerequisites, instructions, expected results and troub
 * [44. Top holders: check a token before you buy](44-top-holders.md)
 
 [All Feature Guides](../README.md)
+
+## Added in this edition
+
+* [56. Read RugCheck reports and holder maps](56-risk-reports.md)

@@ -11,3 +11,7 @@ Choose a guide below for prerequisites, instructions, expected results and troub
 * [43. Token alerts in Telegram](43-token-alerts.md)
 
 [All Feature Guides](../README.md)
+
+## Added in this edition
+
+* [57. DEX Screener profiles and the DEX paid badge](57-dex-screener-profile.md)

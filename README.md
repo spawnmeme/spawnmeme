@@ -29,22 +29,22 @@ Whether you are launching a meme project, creating a collection, exploring marke
 
 ## Fresh from the lab
 
-**October 10 update:** the manual now includes **50 guides across 11 sections**, with a new [creator-fee claiming guide](docs/feature-guides/launch-and-manage-tokens/50-claim-creator-fees.md). Eligible new launches earn about **0.25% of each curve trade** from the existing 1.2% trading fee; older pools retain their original settings.
+**October 12 update:** **58 guides across 11 sections** now cover the Android app, Mobile wallet, creator profiles, activity rankings, token locks and expanded token inspection.
 
-The October 9 release also introduced eight guides:
-
-| New tool or guide | What it covers |
+| New guide | What it covers |
 | --- | --- |
-| [Limit orders](docs/feature-guides/discover-and-trade/42-limit-orders.md) | Conditional SOL/token orders, Jupiter vault deposits and withdrawal recovery |
-| [Token alerts in Telegram](docs/feature-guides/telegram-and-promotion/43-token-alerts.md) | Private market-cap and curve-milestone alerts in Telegram |
-| [Top holders: check a token before you buy](docs/feature-guides/discover-and-trade/44-top-holders.md) | Creator holdings and token supply concentration |
-| [Share links that preview the page](docs/feature-guides/platform-information/45-share-links.md) | Page-specific previews for tokens, collections, projects and news |
-| [Report a token, NFT collection or project](docs/feature-guides/reference-and-support/46-report.md) | Private moderation reports for scams, copies and abusive content |
-| [Browse published projects](docs/feature-guides/create-a-project/47-projects.md) | A public directory of published creator pages |
-| [Check whether SPAWN is working](docs/feature-guides/reference-and-support/48-status.md) | Browser-based service checks and troubleshooting |
-| [Report a security problem](docs/feature-guides/reference-and-support/49-responsible-disclosure.md) | Private security reporting and responsible testing rules |
+| [51. Install SPAWN for Android](docs/feature-guides/getting-started/51-android-app.md) | Official APK, Android wallet connection and pending dApp Store review |
+| [52. Explore a creator profile](docs/feature-guides/launch-and-manage-tokens/52-creator-profiles.md) | Public launch history, trading and lock information |
+| [53. Leaderboards and activity badges](docs/feature-guides/community-and-rewards/53-leaderboards-and-badges.md) | Traders, creators, referrers, tokens and rolling badges |
+| [54. Inspect and create token locks](docs/feature-guides/launch-and-manage-tokens/54-token-locks.md) | Jupiter Lock and Streamflow schedules, including cancellation flags |
+| [55. Lock an older token’s metadata](docs/feature-guides/launch-and-manage-tokens/55-lock-token-metadata.md) | Permanent metadata locking for eligible older Classic tokens |
+| [56. Read RugCheck reports and holder maps](docs/feature-guides/discover-and-trade/56-risk-reports.md) | Independent risk findings and conditional Bubblemaps coverage |
+| [57. DEX Screener profiles and the DEX paid badge](docs/feature-guides/telegram-and-promotion/57-dex-screener-profile.md) | External paid-profile orders and badge meaning |
+| [58. Join The Nest with a wallet](docs/feature-guides/community-and-rewards/58-the-nest.md) | Wallet verification, reactions, messages and moderation |
 
-[Read all 50 guides](docs/feature-guides/README.md) · [Platform whitepaper](docs/whitepaper/README.md)
+Creator-fee claiming, limit orders, alerts, reports and the earlier guides remain in the manual. **Availability:** the Android APK is available; dApp Store approval is pending, holder maps are conditional, and the Blink button is paused.
+
+[Read all 58 guides](docs/feature-guides/README.md) · [Platform whitepaper](docs/whitepaper/README.md)
 
 Other recent improvements:
 

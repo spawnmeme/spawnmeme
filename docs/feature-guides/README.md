@@ -4,7 +4,7 @@
 
 **Create, launch and grow on Solana.** Learn how to use each SPAWN feature, check what a successful action looks like, and recover when something goes wrong.
 
-This companion to the SPAWN whitepaper contains **50 numbered guides**. Start with a task below, or use the ordered sidebar. Each feature has its own page so you can send your community directly to the instructions they need.
+This companion to the SPAWN whitepaper contains **58 numbered guides**. Start with a task below, or use the ordered sidebar. Each feature has its own page so you can send your community directly to the instructions they need.
 
 ## Choose your path
 
@@ -27,7 +27,7 @@ Wallet connection, a free message signature and a paid transaction are different
 
 ## Version and availability
 
-**Edition 1.2 · Updated 10 October 2026.** This edition incorporates the October 9 release package and the October 10 creator-fee guide, with the fee split and claiming flow checked against the current site code. They are documentation, not a claim that every wallet/device combination or paid workflow was independently exercised on mainnet.
+**Edition 1.3 · Updated 12 October 2026.** This edition adds Android and Mobile wallet access, creator profiles, activity rankings, token inspection and wallet-based community participation, alongside the earlier launch, trading, NFT and creator-fee guides. Descriptions were checked against current application source and the deployed public build; paid workflows and every wallet/device combination were not independently exercised on mainnet.
 
 Current activation settings, wallet ownership, project access and provider coverage can limit a feature. Live quotes, status messages and [News & Updates](https://spawnmeme.com/updates) take precedence when the product changes. Known restrictions are stated in the relevant guide, including custom-domain availability, analytics access, supported Buy Bot curves and reported SafePal Android issues.
 
@@ -119,3 +119,14 @@ The [administrator publishing guide](platform-administration/41-publish-updates.
 * [41. Publish platform updates — administrators](platform-administration/41-publish-updates.md)
 
 [Open SPAWN](https://spawnmeme.com) · [Official links](https://linktr.ee/spawnmeme) · [Whitepaper and documentation](https://spawnmeme.gitbook.io/spawnmeme-docs)
+
+## Added October 12
+
+* [51. Install SPAWN for Android](getting-started/51-android-app.md)
+* [52. Explore a creator profile](launch-and-manage-tokens/52-creator-profiles.md)
+* [53. Leaderboards and activity badges](community-and-rewards/53-leaderboards-and-badges.md)
+* [54. Inspect and create token locks](launch-and-manage-tokens/54-token-locks.md)
+* [55. Lock an older token’s metadata](launch-and-manage-tokens/55-lock-token-metadata.md)
+* [56. Read RugCheck reports and holder maps](discover-and-trade/56-risk-reports.md)
+* [57. DEX Screener profiles and the DEX paid badge](telegram-and-promotion/57-dex-screener-profile.md)
+* [58. Join The Nest with a wallet](community-and-rewards/58-the-nest.md)

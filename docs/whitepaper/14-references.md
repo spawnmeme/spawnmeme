@@ -51,6 +51,11 @@ Edition 1.1 incorporates the supplied October 9 platform release package: eight 
 
 Edition 1.2 adds guide 50 from the supplied creator-fee update and revises the dashboard, trading, referral and economics documentation. The current application’s curve fee constants and claim implementation were inspected. This documentation review did not execute a mainnet claim or promise earnings.
 
+## October 12 edition 1.3
+
+This edition adds guides 51–58 and refreshes the related chapters. The current application source and deployed public JavaScript were checked for the Android page, Mobile wallet, creator records, rankings, metadata locking, risk reports, token locks, paid-profile status and wallet-based community controls. No mainnet trade, lock, paid profile order or APK installation was performed as part of this documentation review.
+
+Additional primary references: [Android app](https://spawnmeme.com/android), [Leaderboard](https://spawnmeme.com/leaderboard), [Creators](https://spawnmeme.com/leaderboard?tab=creators), and the relevant token pages reached through [Spawn Feed](https://spawnmeme.com/launchpad). The store remains pending, holder maps conditional and Blinks paused in this edition.
 
 ***
 

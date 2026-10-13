@@ -32,6 +32,10 @@ On a token page, connect the wallet that has your Refer & Earn link and press **
 
 **Success:** the posted link shows the page's own name and artwork, and opens the page.
 
+## Creator pages and Blink availability
+
+Creator profiles have their own **Copy page link** action at `/creator/<wallet>`. This is a normal public profile link. The separate Solana Blink button is **disabled in the October 12 reviewed build**, following an issue with its external landing page. Do not advertise in-post buy buttons as currently available. Normal token, project and news sharing remains the documented route.
+
 ***
 
 [Guide home](../README.md) · [Refer & Earn](../community-and-rewards/25-referrals.md) · [News & Updates](33-news-updates.md)

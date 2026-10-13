@@ -44,6 +44,9 @@ These additions are live features, not future delivery commitments. Broader post
 
 Eligible creator-fee launches can now earn about 0.25% of each bonding-curve trade, with wallet-signed claims in the Creator Dashboard. Legacy pool settings remain unchanged. [50. Claim your creator fees](../feature-guides/launch-and-manage-tokens/50-claim-creator-fees.md) documents the live workflow.
 
+## October 12 documentation update
+
+The reviewed application adds Android APK access and Mobile wallet, creator profiles, activity leaderboards and badges, wallet-based Nest participation, token-lock visibility, legacy metadata locking, RugCheck reports and DEX paid status. The Solana dApp Store submission is under review, embedded holder maps depend on configuration, and the Blink button is disabled. These distinctions separate available interfaces from conditional or paused features.
 
 ***
 

@@ -4,7 +4,7 @@
 
 **A connected platform for creating, launching and growing projects on Solana.**
 
-**Whitepaper edition 1.1 · October 8, 2026**
+**Whitepaper edition 1.3 · October 12, 2026**
 
 Read the chapters below in order, or open the topic you need. For current task instructions and troubleshooting, use the [SPAWN Feature Guides](../feature-guides/README.md).
 

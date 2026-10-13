@@ -36,6 +36,9 @@ Tokens launched with creator fees earn the launch wallet about **0.25% of each b
 
 Accrued curve fees stay claimable after graduation. The graduated pool’s fees are a separate claim; locked liquidity remains inaccessible. See [50. Claim your creator fees](../feature-guides/launch-and-manage-tokens/50-claim-creator-fees.md).
 
+## Metadata and token-balance locks
+
+Current launches lock the token identity at creation. An eligible older Classic token can be made immutable by its metadata update authority from the token page. This action is permanent and separate from supply, balance locking or graduation liquidity. The Locked tokens card reports supported Jupiter Lock and Streamflow schedules, including creator amounts and cancellable locks. A token lock restricts only its covered balance. Branded mint suffixes may be available but do not replace full-address verification.
 
 ***
 

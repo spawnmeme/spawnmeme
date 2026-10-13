@@ -36,6 +36,9 @@ A swap uses a current quote, with funds in the wallet until the transaction exec
 
 [Limit orders](../feature-guides/discover-and-trade/42-limit-orders.md) have a $10 minimum, a maximum 30-day expiry and no SPAWN fee; network and Jupiter fees may apply. [Top holders](../feature-guides/discover-and-trade/44-top-holders.md) adds creator holdings and top-ten concentration to token-page inspection. Wallet count is not a count of independent people.
 
+## Expanded token inspection
+
+Token pages now combine available RugCheck findings, supported token-lock schedules, DEX paid status and creator records with existing holder and trading information. Data availability varies by provider. Paid profiles and activity badges are not verification of safety, and a missing report is not a passed check. The holder-map embed is conditional. The Blink sharing control remains disabled in the reviewed build.
 
 ***
 

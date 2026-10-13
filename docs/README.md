@@ -6,7 +6,7 @@
 
 ## Complete feature manual
 
-Browse **[50 step-by-step guides](feature-guides/README.md)** in 11 sections, with prerequisites, expected results, fees and troubleshooting. The **[platform whitepaper](whitepaper/README.md)** explains the product model and transaction boundaries.
+Browse **[58 step-by-step guides](feature-guides/README.md)** in 11 sections, with prerequisites, expected results, fees and troubleshooting. The **[platform whitepaper](whitepaper/README.md)** explains the product model and transaction boundaries.
 
 ### Added October 10
 
@@ -52,3 +52,14 @@ For account or transaction help, start with [Help](https://spawnmeme.com/help). 
 Security concerns belong in a private report: see [SECURITY.md](../SECURITY.md).
 
 [Back to SPAWN](../README.md)
+
+## Added October 12
+
+* [51. Install SPAWN for Android](feature-guides/getting-started/51-android-app.md)
+* [52. Explore a creator profile](feature-guides/launch-and-manage-tokens/52-creator-profiles.md)
+* [53. Leaderboards and activity badges](feature-guides/community-and-rewards/53-leaderboards-and-badges.md)
+* [54. Inspect and create token locks](feature-guides/launch-and-manage-tokens/54-token-locks.md)
+* [55. Lock an older token’s metadata](feature-guides/launch-and-manage-tokens/55-lock-token-metadata.md)
+* [56. Read RugCheck reports and holder maps](feature-guides/discover-and-trade/56-risk-reports.md)
+* [57. DEX Screener profiles and the DEX paid badge](feature-guides/telegram-and-promotion/57-dex-screener-profile.md)
+* [58. Join The Nest with a wallet](feature-guides/community-and-rewards/58-the-nest.md)

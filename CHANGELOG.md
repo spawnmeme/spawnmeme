@@ -1,5 +1,13 @@
 # Documentation updates
 
+## Android, creators and token inspection — October 12, 2026
+
+- Added guides 51–58 for Android/Mobile wallet, creator profiles, leaderboards and badges, token locks, metadata locking, RugCheck/holder maps, DEX paid profiles and The Nest.
+- Updated wallet, launch, token-page, holder, quest and sharing instructions and related whitepaper chapters.
+- Distinguished pending dApp Store approval, conditional holder maps and the disabled Blink button.
+- Updated the manual to 58 guides and corrected guides 42–49 misplaced under the whitepaper in SUMMARY.md.
+- Verified feature presence against current application source and deployed public JavaScript; no paid or mainnet actions were executed.
+
 ## Creator earnings documentation — October 10, 2026
 
 - Added guide 50 for claiming creator curve fees and graduated pool fees.

@@ -43,6 +43,11 @@ Useful participation is distinct from manufactured volume, impersonation and rep
 
 The creator’s curve-fee share is paid from the existing trading-fee allocation. Referral percentages continue to apply to SPAWN’s own remaining fee revenue, not the entire trader-paid curve fee. Pool settings therefore affect the base used for referral earnings.
 
+## Wallet participation, creator records and rankings
+
+The Nest accepts a free signed wallet message or an email account. Wallet-based reactions on launched tokens require holdings, while verified participants can post without holding the token; signed-in accounts remain supported. Holder labels describe the posting-time check.
+
+Public creator profiles summarize launches, graduations, trading from others, creator buys/sells and available token locks. The activity Leaderboard separates Traders, Creators, Referrers and Tokens; its metrics are distinct from quest points. Weekly badges change over a rolling seven-day period. Rankings can be influenced by coordinated wallets, carry no reward and do not establish investment quality.
 
 ***
 

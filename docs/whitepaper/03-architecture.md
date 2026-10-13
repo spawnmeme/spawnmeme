@@ -44,6 +44,9 @@ RPC or indexing failures may interrupt access, delay a quote or show an outdated
 
 A swap uses a current quote, with funds in the wallet until the transaction executes. A limit order waits for the selected dollar price with funds deposited in your own Jupiter vault. SPAWN does not hold the deposit. Expired orders require withdrawal; cancellation also requires completing the withdrawal. Only the connected owner wallet can deposit or withdraw.
 
+## Mobile access and inspection services
+
+The Android app wraps the SPAWN website and uses Solana Mobile Wallet Adapter for supported installed-wallet authorization. An APK is available from the official Android page; dApp Store approval is pending in this edition. RugCheck supplies independent token-risk reports; Jupiter Lock and Streamflow supply token-lock records; DEX Screener supplies paid-profile status. A Bubblemaps embed depends on partner configuration and coverage. These are separate provider boundaries, not SPAWN audits or endorsements.
 
 ***
 

@@ -52,6 +52,9 @@ Do not clear browser storage as your first repair step: it can remove pending re
 | --- | --- |
 | MetaMask says "The requested account and/or method has not been authorized by the user" | The saved authorization may have expired. SPAWN asks MetaMask to reconnect and retries. If it persists, disconnect on SPAWN, select **MetaMask**, approve the Solana account and retry. This authorization failure sends no transaction and charges nothing. |
 
+## Android app and Mobile wallet
+
+On Android, **Mobile wallet** uses Solana Mobile Wallet Adapter to open a compatible installed wallet, including supported Phantom, Solflare and Seeker Seed Vault environments. It works in the SPAWN Android app and Android Chrome; it is not an iPhone connection method. Keep SPAWN open while approving in the wallet, then verify the returned address. See [51. Install SPAWN for Android](51-android-app.md) for the APK and current store status.
 
 ***
 

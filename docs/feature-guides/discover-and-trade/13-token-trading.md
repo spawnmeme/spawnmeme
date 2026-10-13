@@ -57,6 +57,9 @@ To trade at a chosen dollar price, use [Limit orders](42-limit-orders.md). These
 
 For creator-fee launches, the creator receives about 0.25% of trade value from the existing 1.2% curve fee. Older pools retain their original settings. This does not add another fee to the trader’s quote. See [50. Claim your creator fees](../launch-and-manage-tokens/50-claim-creator-fees.md).
 
+## More context on the token page
+
+Inspect the [RugCheck report](56-risk-reports.md), [Locked tokens](../launch-and-manage-tokens/54-token-locks.md), creator activity and **DEX paid** status when available. Paid-profile status is not a safety endorsement. [The Nest](../community-and-rewards/58-the-nest.md) now supports a verified wallet or email account and sits below the chart and trades for linked projects. Embedded holder maps depend on partner configuration and provider coverage. The Blink button is currently disabled; use the normal page-share link.
 
 ***
 

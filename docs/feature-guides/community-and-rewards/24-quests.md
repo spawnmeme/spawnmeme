@@ -40,6 +40,10 @@ This points invitation differs from the SOL-earning [Refer & Earn](25-referrals.
 
 Points have no cash value or guaranteed token/airdrop conversion. Some optional tasks incur their normal action costs. You can participate in free tasks without making purchases just to accumulate points.
 
+## Activity leaderboards are separate
+
+The public [Leaderboard](https://spawnmeme.com/leaderboard) now has **Traders**, **Creators**, **Referrers** and **Tokens** tabs. These use recorded activity, referrals and market-cap metrics rather than Spawn Points. See [53. Leaderboards and activity badges](53-leaderboards-and-badges.md). A rank or badge carries no reward and is not a profitability measure.
+
 ***
 
 [Guide home](../README.md) · [Troubleshooting](../reference-and-support/38-troubleshooting.md) · [Get help](../reference-and-support/39-support-and-safety.md)
